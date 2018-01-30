@@ -11,7 +11,7 @@ Facebook: https://goo.gl/tDaeQk
 |:------------------------------------------------------------------------------------------| -----------:| ---------------------:|
 | Introduction to Secure Machine Learning                                                   | 01.29.2018  | https://goo.gl/1gcju7 | 
 | Stealing Machine Learning Models via Prediction APIs                                      | 02.05.2018  | https://goo.gl/BQyCSu |
-| Real-world Adversarial Examples. Guest speakers: LabSix (https://goo.gl/MiqwMr)           | 02.19.2018  | https://goo.gl/KXqrDN, https://goo.gl/8gXuGq |
+| Real-world Adversarial Examples. <br />xGuest speakers: LabSix (https://goo.gl/MiqwMr)           | 02.19.2018  | https://goo.gl/KXqrDN, https://goo.gl/8gXuGq |
 | Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures     | 02.26.2018  | https://goo.gl/dozXNH |
 | Certified Defenses for Data Poisoning Attacks                                             | 03.19.2018  | https://goo.gl/ipvBP5 |
 | Deep Learning with Differential Privacy                                                   | 04.02.2018  | https://goo.gl/ppB9Wy |
